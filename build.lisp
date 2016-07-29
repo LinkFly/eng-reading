@@ -7,5 +7,6 @@
 (mapc #'ql:quickload '(:cl-unicode :uiop))
 (load "eng-reading.lisp")
 (sb-ext:save-lisp-and-die 
+ #+:os-windows "eng-reading-0-0-2.exe"
  #+:linux "eng-reading-0-0-2.elf"
  :toplevel #'eng-reading:run :executable t)
