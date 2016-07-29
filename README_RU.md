@@ -3,7 +3,7 @@ ENG-READING
 Программа предназначена для тренировки чтения аглийского текста.
 -------------------
 
-####[Загрузить](https://www.dropbox.com/s/wu65bj16fvdkjnd/eng-reading-0-0-1.elf?dl=0)
+####[Загрузить](https://www.dropbox.com/s/wu65bj16fvdkjnd/eng-reading-0-0-1.elf?dl=0) (готовая сборка для Linux в DropBox)
 
 Использование:
 -------------------
