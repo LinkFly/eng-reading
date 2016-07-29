@@ -4,7 +4,8 @@
   (:export #:run))
 (in-package :eng-reading)
 
-(defparameter *data-file* "~/work/projects/eng-reading/data.sexp")
+;(defparameter *this-dir* 
+(defparameter *data-file* (make-pathname :defaults *load-pathname* :name "data" :type "sexp"))
 
 ;;; Internal parameters
 (defparameter *all-syms* (read-file-form *data-file*))
