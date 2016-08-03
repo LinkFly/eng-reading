@@ -6,7 +6,7 @@
 Готовые сборки в DropBox:
  
 - **[Загрузить версию для Linux](https://www.dropbox.com/s/wu65bj16fvdkjnd/eng-reading-0-0-1.elf?dl=0)**
-- **[Загрузить версию для Windows]https://www.dropbox.com/s/9oqsbzptkf1nrhm/eng-reading-0-0-2.exe?dl=0)**
+- **[Загрузить версию для Windows](https://www.dropbox.com/s/9oqsbzptkf1nrhm/eng-reading-0-0-2.exe?dl=0)**
 
 Использование:
 -------------------
